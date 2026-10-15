@@ -4,3 +4,7 @@ __pycache__/
 # Agent session traces (Stone CLI) — never commit
 .stone/
 **/.stone/
+
+# Local books, raw extracts, and generated study skills. Keep these private.
+books/
+skills/
